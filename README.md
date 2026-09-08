@@ -4,7 +4,7 @@ Este repositório contém documentação e especificações sobre a **Identidade
 
 ---
 
-![Atividade Identidade Visual Itaú](image_0fbe6d.png)
+![Atividade Identidade Visual Itaú](figma itau.png)
 
 ---
 
