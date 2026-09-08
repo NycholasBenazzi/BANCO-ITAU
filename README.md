@@ -1,13 +1,7 @@
 # Atividade Identidade Visual Itaú
 
 Este repositório contém documentação e especificações sobre a **Identidade Visual Itaú**, incluindo variações de logotipos, paleta de cores, tipografia, escala de fontes e diretrizes de contraste.
-
----
-
-![Atividade Identidade Visual Itaú](figma itau.png)
-
----
-
+--- 
 ## 🎨 Logotipos (Logos)
 
 As variações de marcas/logotipos apresentadas na documentação incluem:
